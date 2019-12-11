@@ -5,6 +5,11 @@ An example project built with [pybind11](https://github.com/pybind/pybind11).
 
 Installation
 ------------
+**Conda Build**
+
+ - clone this repository
+ - `cd python_example`
+ - `conda build ./conda.recipe`
 
 **On Unix (Linux, OS X)**
 
